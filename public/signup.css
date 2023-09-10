@@ -1,0 +1,59 @@
+body{
+    margin:0%;
+
+} 
+
+.main{
+    height: 599px;
+    margin: auto;
+    width: 296px;
+    border: rgb(151, 148, 148) solid 0.1px;
+    margin-top: 15px;
+}   
+
+.u-img{
+    background-image:url("sign-up.png"); 
+    height: 187px;
+    width: 222px;
+    background-size: cover;
+    margin-left: 40px;
+    margin-top: 1px;
+} 
+
+.i1{
+    height: 21px;
+    width: 190px;
+    margin-left: 52px;
+    margin-top:4px;
+    border: rgb(151, 148, 148) solid 0.1px;
+    border-radius:3px;
+    background-color:gainsboro;
+} 
+
+.m-img{
+    background-image:url("pp.png"); 
+    height: 78px;
+    width: 212px;
+    background-size: cover;
+    margin-left: 50px;
+    margin-top: 1px;
+
+} 
+
+.btn{
+    height: 20px;
+    width: 198px;
+    background-color: rgb(63, 146, 230);
+    border: none;
+    border-radius: 3px;
+    color: rgb(32, 27, 27);
+    margin-top: 14px;
+    margin-left: 51px;
+}
+
+.btn-b{
+    margin-left:19px; 
+    margin-top:19px;
+    
+    
+}

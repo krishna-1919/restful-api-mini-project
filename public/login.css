@@ -1,0 +1,100 @@
+
+body{
+    margin:0;
+    
+}
+.login-main{  
+
+    height: 299px;
+    margin: auto;
+    width: 296px;
+    border: rgb(151, 148, 148) solid 0.1px;
+    margin-top: 15px;
+} 
+
+.login-img{  
+    background-image:url("insta-logo.png"); 
+    height: 76px;
+    width: 236px;  
+    background-size: cover;
+    margin-left:38px;
+    margin-top:16px;
+} 
+
+.l-i1{
+    height: 21px;
+    width: 190px;
+    margin-left: 52px;
+    margin-top:5px;
+    border: rgb(151, 148, 148) solid 0.1px;
+    border-radius:3px;
+    background-color:gainsboro;
+}
+
+.l-i2{
+    
+        height: 21px;
+        width: 190px;
+        margin-left: 52px;
+        margin-top:5px;
+        background-color:gainsboro;
+        border: rgb(151, 148, 148) solid 0.1px;
+        border-radius:3px;
+    
+} 
+
+.l-b{
+    height: 20px;
+    width: 198px;
+    background-color: rgb(63, 146, 230);
+    border: none;
+    border-radius: 3px;
+    color: rgb(32, 27, 27);
+    margin-top: 14px;
+    margin-left: 51px;
+
+} 
+
+.footer{
+    background-image:url("fc.png"); 
+    height: 76px;
+    width: 236px;  
+    background-size: cover;
+    margin-top: 25px;
+    margin-left: 33px;
+
+}
+
+.login-main2{   
+    height: 44px;
+    margin: auto;
+    width: 296px;
+    border: rgb(151, 148, 148) solid 0.1px;
+margin-top:29px;
+
+}    
+
+.login-main2 p{
+    font-size: 13px;
+    text-align: center;
+  
+} 
+.login-main2 p a{
+    text-decoration-line: none;
+    color: rgb(34, 129, 223);
+    font-weight: 600;
+} 
+
+.f-img{
+    background-image:url("instafooter.png"); 
+   
+    height: 54px;
+    width: 228px;
+    background-size: cover;
+    margin-top: 25px;
+    margin-left: 28px;
+} 
+
+
+
+
